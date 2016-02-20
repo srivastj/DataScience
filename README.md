@@ -1,4 +1,4 @@
 ##Data jayant
-li a
-li b
-li c
+* a
+* b
+* c
